@@ -1,2 +1,9 @@
 
-#title { color:purple;}
+@head blink {
+to { color: red; }
+}
+
+.my-element {
+color: blue;
+animation: blink 1s steps(2, start) infinite;
+}
