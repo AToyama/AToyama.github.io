@@ -1,0 +1,54 @@
+.topmenu {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left:0px;
+	height: 9%;
+	background-color: #0000ff;
+	padding-bottom: 4%;
+}
+
+.return {
+	position: fixed;
+	left: 4%;
+	font-size: 400%;
+	color:white;
+	padding-top: 1%
+}
+
+.edit {
+	position: fixed;
+	right: 4%;
+	font-size: 200%;
+	color:white;
+	padding-top: 5%
+
+}
+.contato {
+	width:20%;
+	padding-top:25%;
+	padding-left:10%; 
+
+}
+
+.nome{
+	font-size: 140%;
+	padding-left: 0.5em;
+	border-bottom: 1px solid black;
+	
+
+}
+
+.super_espacamento {
+	padding-top: 30%;
+}
+
+
+.espacamento {
+	padding-top: 15%;
+	padding-bottom: 3%;
+	padding-left:2%;
+	border-bottom: 1px solid black;
+	text-align: center;
+	font-size: 140%;
+}

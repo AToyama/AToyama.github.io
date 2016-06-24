@@ -1,0 +1,54 @@
+input {
+	font-size: 20pt;
+}
+.imagem {
+	float: left;
+	width:3em;
+}
+.textofoto {
+	font-size: 9pt;	
+	width:23em;
+    height:50px;
+    line-height: 1.7;
+}
+.nome {
+	font-size: 15pt;
+	width:65px;
+    height:50px;
+}
+.topmenu {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left:0px;
+	height: 9%;
+	background-color: #0000FF;
+	padding-bottom: 4%;
+	font-size: 1em;
+}
+body {
+	padding-top: 25%;
+	padding-left: 2%;
+}
+.voltar{
+	font-size: 400%;
+	position: fixed;
+	left: 4%;
+	padding-top: 1%;
+}
+.ok{
+	font-size: 350%;
+	color: white;
+	position: fixed;
+	right: 6%;
+	padding-top: 1%;
+}
+.servicos{
+	font-size: 15pt;
+	width:65px;
+    height:20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
